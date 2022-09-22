@@ -1,6 +1,6 @@
 # Collapse Lines
 
-[Demo](https://vlasiuk-anatolii.github.io/auth/)
+[Demo](https://vlasiuk-anatolii.github.io/OOP/)
 A simple page was created with one <canvas> element and a button
 
 ## Description
