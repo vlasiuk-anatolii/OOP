@@ -19,8 +19,6 @@ export default class Point {
     if (ctx) {
       ctx.beginPath();
       ctx.fillStyle = color;
-      console.log("in",color);
-      console.log("out",ctx.fillStyle);
       ctx.arc(this.x, this.y, 3, 0, 360, false);
       ctx.stroke();
       ctx.fill();
